@@ -7,7 +7,7 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manuel-ramirez-5t4rt/](https://www.linkedin.com/in/manuel-ramirez-sierra/
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manuel-ramirez-5t4rt/](https://www.linkedin.com/in/manuel-ramirez-sierra/)
 ) 
 
 # 💻 Tech Stack:
