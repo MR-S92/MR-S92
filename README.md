@@ -1,7 +1,7 @@
 ## Hi there, I'm Manuel! 👋
 - 🔭 I’m currently working on my software skills in computer programming.
 - ⚡ Studied [Mechanical Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
-- - 📫 Reach me at: manue-89@hotmail.com
+ - 📫 Reach me at: manue-89@hotmail.com
 # 💫 About Me:
 Engineer with a foundation in Mechanical Engineering and two years of experience in the renewable energy industry. I have a strong passion for analyzing complex datasets to drive business decisions and enhance operational efficiency.
 
