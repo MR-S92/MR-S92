@@ -22,7 +22,7 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MR-S92&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+## Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
 
 
