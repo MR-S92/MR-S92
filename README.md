@@ -11,7 +11,7 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MR-S92/PowerBI--Data-Analysis-Emerald-Bank/blob/main/Emerald_Crown_Bank.sql)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MR-S92/SQL-Library)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/MR-S92/PowerBI-Library?tab=readme-ov-file)
 
 # 📊 GitHub Stats:
