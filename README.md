@@ -39,3 +39,11 @@ Other                    9 mins              ░░░░░░░░░░░�
 ## Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
 
+
+
+
+
+
+
+
+
