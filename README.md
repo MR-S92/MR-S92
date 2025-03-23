@@ -24,19 +24,20 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 ## Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
 
+📊 **This Week I Spent My Time On** 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-## Hi there, I'm Manuel! 👋
+```text
+🕑︎ Time Zone: Eastern Time
 
-Here are some ideas to get you started:
+💬 Programming Languages: 
+Programming C            16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
+SQL                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+--                       1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %  
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
