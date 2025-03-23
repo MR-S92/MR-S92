@@ -33,8 +33,7 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 💬 Programming Languages: 
 Programming C            16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
 SQL                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
---                       0 hr 0 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   00.00 %  
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 ## Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
