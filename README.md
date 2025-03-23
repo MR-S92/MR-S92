@@ -1,8 +1,13 @@
 ## Hi there, I'm Manuel! 👋
+<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:300px; max-width:300px; width:350px;" align="right">
+
+
+
+<!--- Adding Header Elements -->
 - 🔭 I’m currently working on my software skills in computer programming.
 - ⚡ Studied [Mechanical Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
  - 📫 Reach me at: manue-89@hotmail.com
-# 💫 About Me:
+## 💫  About Me:
 Engineer with a foundation in Mechanical Engineering and two years of experience in the renewable energy industry. I have a strong passion for analyzing complex datasets to drive business decisions and enhance operational efficiency.
 
 
@@ -20,10 +25,6 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MR-S92&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## Profile views:
-![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -32,12 +33,9 @@ Engineer with a foundation in Mechanical Engineering and two years of experience
 💬 Programming Languages: 
 Programming C            16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
 SQL                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
---                       1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %  
+--                       0 hr 0 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   00.00 %  
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
-
-
-
-
-
+## Profile views:
+![Visitor Count](https://profile-counter.glitch.me/{MR-S92}/count.svg)
 
