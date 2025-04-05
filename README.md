@@ -35,7 +35,6 @@ Programming C            16 hrs 10 mins      ███████████�
 SQL                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
-## Profile views:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-s92&label=Profile%20views&color=0e75b6&style=flat" alt="mr-s92" /> </p>
 
