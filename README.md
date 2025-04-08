@@ -1,5 +1,5 @@
 ## Hi there, I'm Manuel! 👋
-<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:210px;" align="right">
+<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:240px;" align="right">
 
 
 
@@ -8,6 +8,7 @@
 - ⚡ Studied [Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
  - 💡 Focused on building a portfolio of projects centered around data and automation.
  - 📫 Reach me at: manue-89@hotmail.com
+ - 👨‍💻 Check out my <a href= "https://github.com/MR-S92?tab=repositories"> Projects</a>
 
 
 ## 💫  About Me:
