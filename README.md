@@ -1,12 +1,15 @@
 ## Hi there, I'm Manuel! 👋
-<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:300px; max-width:300px; width:350px;" align="right">
+<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:250px; max-width:250px; width:200px;" align="right">
 
 
 
 <!--- Adding Header Elements -->
 - 🔭 I’m currently working on my software skills in computer programming.
 - ⚡ Studied [Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
+ - 💡 Focused on building a portfolio of projects centered around data and automation.
  - 📫 Reach me at: manue-89@hotmail.com
+
+
 ## 💫  About Me:
 Engineer with a foundation in Mechanical Engineering and two years of experience in the renewable energy industry. I have a strong passion for analyzing complex datasets to drive business decisions and enhance operational efficiency.
 
