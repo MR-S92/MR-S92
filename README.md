@@ -1,5 +1,5 @@
 ## Hi there, I'm Manuel! 👋
-<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:250px; max-width:250px; width:200px;" align="right">
+<img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:210px;" align="right">
 
 
 
