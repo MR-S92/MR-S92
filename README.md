@@ -1,8 +1,6 @@
 ## Hi there, I'm Manuel! 👋
 <img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:240px;" align="right">
 
-
-
 <!--- Adding Header Elements -->
 - 🔭 I’m currently working on my software skills in computer programming.
 - ⚡ Studied [Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
@@ -48,7 +46,11 @@ Other                    9 mins              ░░░░░░░░░░░�
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/mrs92"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mrs92" /></a></p><br><br> 
 
++ Comments:
+- To chnage text to color use: $${\color{purple}Orion}$$
+
 -->
+
 
 
 
