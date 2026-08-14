@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my software skills in computer programming.
 - ⚡ Studied [Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
  - 💡 Focused on building a portfolio of projects centered around data and automation.
- - 📫 Reach me at: manue-89@hotmail.com
+ - 📫 Reach me at: manuel.ign.ramirez.com
  - 👨‍💻 Check out my <a href= "https://github.com/MR-S92?tab=repositories"> Projects</a>
 
 
