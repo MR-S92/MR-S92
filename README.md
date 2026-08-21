@@ -2,15 +2,17 @@
 <img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:240px;" align="right">
 
 <!--- Adding Header Elements -->
-- 🔭 I’m currently working on my software skills in computer programming.
-- ⚡ Studied [Engineering](https://valenciacollege.edu/) at Valencia College in Orlando, Florida. 
- - 💡 Focused on building a portfolio of projects centered around data and automation.
- - 📫 Reach me at: manuel.ign.ramirez.com
+- 🔭 Building data analytics, automation, and quantitative software projects using Python, SQL, and C#..
+- 🎓 Mechanical Engineering background from the University of Central Florida. 
+ - 📊 Interested in transforming complex datasets into practical engineering and business insights.
+ - 📫 Reach me at: manuel.ign.ramirez@gmail.com
  - 👨‍💻 Check out my <a href= "https://github.com/MR-S92?tab=repositories"> Projects</a>
 
 
 ## 💫  About Me:
-Engineer with a foundation in Mechanical Engineering and two years of experience in the renewable energy industry. I have a strong passion for analyzing complex datasets to drive business decisions and enhance operational efficiency.
+My background combines mechanical engineering, renewable energy, data analytics, and software development. I enjoy building systems that turn complex data into clear, measurable insights and using programming to automate analysis, improve workflows, and solve engineering and business problems.
+
+My current work focuses primarily on Python, SQL, data analytics, automation, and quantitative research.
 
 
 ## 🌐 Socials:
