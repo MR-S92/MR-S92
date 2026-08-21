@@ -14,6 +14,9 @@ My background combines mechanical engineering, renewable energy, data analytics,
 
 My current work focuses primarily on Python, SQL, Power BI, automation, and quantitative research.
 
+## 🎬 Project Showcase
+
+https://github.com/user-attachments/assets/fb4af173-c059-47e9-a3b9-e8f93e3a56b4
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-ramirez-sierra/)
