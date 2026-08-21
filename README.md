@@ -12,7 +12,7 @@
 ## 💫  About Me:
 My background combines mechanical engineering, renewable energy, data analytics, and software development. I enjoy building systems that turn complex data into clear, measurable insights and using programming to automate analysis, improve workflows, and solve engineering and business problems.
 
-My current work focuses primarily on Python, SQL, data analytics, automation, and quantitative research.
+My current work focuses primarily on Python, SQL, Power BI, automation, and quantitative research.
 
 
 ## 🌐 Socials:
