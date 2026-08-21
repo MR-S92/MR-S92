@@ -23,9 +23,6 @@ My current work focuses primarily on Python, SQL, Power BI, automation, and quan
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/MR-S92/SQL-Library)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/MR-S92/PowerBI-Library?tab=readme-ov-file)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MR-S92&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
