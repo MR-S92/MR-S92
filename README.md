@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/32c63578-4cbc-4d18-a9bd-ad971a88673c" style="min-width:400px; max-width:100%; width:240px;" align="right">
 
 <!--- Adding Header Elements -->
-- 🔭 Building data analytics, automation, and quantitative software projects using Python, SQL, and C#..
+- 🔭 Building data analytics, automation, and quantitative software projects using python.
 - 🎓 Mechanical Engineering background from the University of Central Florida. 
  - 📊 Interested in transforming complex datasets into practical engineering and business insights.
  - 📫 Reach me at: manuel.ign.ramirez@gmail.com
